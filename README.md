@@ -1,4 +1,4 @@
-# myzsh
+# omz-ezrx
 
 A minimal, distraction-free Zsh theme focused on clarity and signal over noise.
 
